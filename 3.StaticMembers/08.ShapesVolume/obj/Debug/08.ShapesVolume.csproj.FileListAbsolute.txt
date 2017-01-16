@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\08.ShapesVolume\bin\Debug\08.ShapesVolume.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\08.ShapesVolume\obj\Debug\08.ShapesVolume.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\08.ShapesVolume\bin\Debug\08.ShapesVolume.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\08.ShapesVolume\bin\Debug\08.ShapesVolume.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\08.ShapesVolume\obj\Debug\08.ShapesVolume.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\08.ShapesVolume\obj\Debug\08.ShapesVolume.pdb

@@ -1,0 +1,6 @@
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\3.StaticMembers\bin\Debug\3.StaticMembers.exe.config
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\3.StaticMembers\bin\Debug\3.StaticMembers.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\3.StaticMembers\bin\Debug\3.StaticMembers.pdb
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\3.StaticMembers\obj\Debug\3.StaticMembers.csprojResolveAssemblyReference.cache
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\3.StaticMembers\obj\Debug\3.StaticMembers.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\3.StaticMembers\obj\Debug\3.StaticMembers.pdb

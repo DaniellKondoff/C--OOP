@@ -1,0 +1,6 @@
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\1.DefiningClasses\bin\Debug\1.DefiningClasses.exe.config
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\1.DefiningClasses\bin\Debug\1.DefiningClasses.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\1.DefiningClasses\bin\Debug\1.DefiningClasses.pdb
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\1.DefiningClasses\obj\Debug\1.DefiningClasses.csprojResolveAssemblyReference.cache
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\1.DefiningClasses\obj\Debug\1.DefiningClasses.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\1.DefiningClasses\obj\Debug\1.DefiningClasses.pdb

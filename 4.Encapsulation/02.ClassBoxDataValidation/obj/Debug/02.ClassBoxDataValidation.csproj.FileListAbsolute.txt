@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\02.ClassBoxDataValidation\bin\Debug\02.ClassBoxDataValidation.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\02.ClassBoxDataValidation\bin\Debug\02.ClassBoxDataValidation.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\02.ClassBoxDataValidation\bin\Debug\02.ClassBoxDataValidation.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\02.ClassBoxDataValidation\obj\Debug\02.ClassBoxDataValidation.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\02.ClassBoxDataValidation\obj\Debug\02.ClassBoxDataValidation.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\02.ClassBoxDataValidation\obj\Debug\02.ClassBoxDataValidation.pdb

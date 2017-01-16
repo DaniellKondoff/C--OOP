@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\03.TemperatureConverter\bin\Debug\03.TemperatureConverter.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\03.TemperatureConverter\bin\Debug\03.TemperatureConverter.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\03.TemperatureConverter\bin\Debug\03.TemperatureConverter.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\03.TemperatureConverter\obj\Debug\03.TemperatureConverter.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\03.TemperatureConverter\obj\Debug\03.TemperatureConverter.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\03.TemperatureConverter\obj\Debug\03.TemperatureConverter.pdb

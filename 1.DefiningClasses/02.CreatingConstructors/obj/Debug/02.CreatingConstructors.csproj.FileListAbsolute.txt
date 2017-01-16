@@ -1,0 +1,5 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.pdb

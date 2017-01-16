@@ -1,0 +1,6 @@
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\5.Inheritance\bin\Debug\5.Inheritance.exe.config
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\5.Inheritance\bin\Debug\5.Inheritance.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\5.Inheritance\bin\Debug\5.Inheritance.pdb
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\5.Inheritance\obj\Debug\5.Inheritance.csprojResolveAssemblyReference.cache
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\5.Inheritance\obj\Debug\5.Inheritance.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\5.Inheritance\obj\Debug\5.Inheritance.pdb

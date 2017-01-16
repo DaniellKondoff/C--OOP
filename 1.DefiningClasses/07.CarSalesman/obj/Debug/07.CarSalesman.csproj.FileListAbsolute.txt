@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\07.CarSalesman\bin\Debug\07.CarSalesman.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\07.CarSalesman\bin\Debug\07.CarSalesman.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\07.CarSalesman\bin\Debug\07.CarSalesman.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\07.CarSalesman\obj\Debug\07.CarSalesman.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\07.CarSalesman\obj\Debug\07.CarSalesman.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\07.CarSalesman\obj\Debug\07.CarSalesman.pdb

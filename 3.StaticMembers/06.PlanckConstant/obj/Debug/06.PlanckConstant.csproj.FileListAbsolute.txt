@@ -1,0 +1,5 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\06.PlanckConstant\bin\Debug\06.PlanckConstant.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\06.PlanckConstant\bin\Debug\06.PlanckConstant.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\06.PlanckConstant\bin\Debug\06.PlanckConstant.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\06.PlanckConstant\obj\Debug\06.PlanckConstant.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\06.PlanckConstant\obj\Debug\06.PlanckConstant.pdb

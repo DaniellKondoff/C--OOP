@@ -1,0 +1,6 @@
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\9.Iterators and Comparators\9.Iterators and Comparators\bin\Debug\9.Iterators and Comparators.exe.config
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\9.Iterators and Comparators\9.Iterators and Comparators\bin\Debug\9.Iterators and Comparators.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\9.Iterators and Comparators\9.Iterators and Comparators\bin\Debug\9.Iterators and Comparators.pdb
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\9.Iterators and Comparators\9.Iterators and Comparators\obj\Debug\9.Iterators and Comparators.csprojResolveAssemblyReference.cache
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\9.Iterators and Comparators\9.Iterators and Comparators\obj\Debug\9.Iterators and Comparators.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\9.Iterators and Comparators\9.Iterators and Comparators\obj\Debug\9.Iterators and Comparators.pdb

@@ -1,0 +1,6 @@
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\6.Polymorphism\bin\Debug\6.Polymorphism.exe.config
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\6.Polymorphism\bin\Debug\6.Polymorphism.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\6.Polymorphism\bin\Debug\6.Polymorphism.pdb
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\6.Polymorphism\obj\Debug\6.Polymorphism.csprojResolveAssemblyReference.cache
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\6.Polymorphism\obj\Debug\6.Polymorphism.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\6.Polymorphism\obj\Debug\6.Polymorphism.pdb

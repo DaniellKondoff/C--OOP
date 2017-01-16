@@ -1,0 +1,6 @@
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\10.Enums and Attributes\10.Enums and Attributes\bin\Debug\10.Enums and Attributes.exe.config
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\10.Enums and Attributes\10.Enums and Attributes\bin\Debug\10.Enums and Attributes.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\10.Enums and Attributes\10.Enums and Attributes\bin\Debug\10.Enums and Attributes.pdb
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\10.Enums and Attributes\10.Enums and Attributes\obj\Debug\10.Enums and Attributes.csprojResolveAssemblyReference.cache
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\10.Enums and Attributes\10.Enums and Attributes\obj\Debug\10.Enums and Attributes.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\10.Enums and Attributes\10.Enums and Attributes\obj\Debug\10.Enums and Attributes.pdb

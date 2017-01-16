@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\04.MordorsCrueltyPlan\bin\Debug\04.MordorsCrueltyPlan.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\04.MordorsCrueltyPlan\obj\Debug\04.MordorsCrueltyPlan.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\04.MordorsCrueltyPlan\bin\Debug\04.MordorsCrueltyPlan.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\04.MordorsCrueltyPlan\bin\Debug\04.MordorsCrueltyPlan.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\04.MordorsCrueltyPlan\obj\Debug\04.MordorsCrueltyPlan.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\04.MordorsCrueltyPlan\obj\Debug\04.MordorsCrueltyPlan.pdb

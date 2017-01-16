@@ -1,0 +1,6 @@
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\EnheritanceDemo\bin\Debug\EnheritanceDemo.exe.config
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\EnheritanceDemo\bin\Debug\EnheritanceDemo.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\EnheritanceDemo\bin\Debug\EnheritanceDemo.pdb
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\EnheritanceDemo\obj\Debug\EnheritanceDemo.csprojResolveAssemblyReference.cache
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\EnheritanceDemo\obj\Debug\EnheritanceDemo.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\EnheritanceDemo\obj\Debug\EnheritanceDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\5.SpeedRacing\bin\Debug\5.SpeedRacing.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\5.SpeedRacing\bin\Debug\5.SpeedRacing.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\5.SpeedRacing\bin\Debug\5.SpeedRacing.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\5.SpeedRacing\obj\Debug\5.SpeedRacing.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\5.SpeedRacing\obj\Debug\5.SpeedRacing.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\5.SpeedRacing\obj\Debug\5.SpeedRacing.pdb

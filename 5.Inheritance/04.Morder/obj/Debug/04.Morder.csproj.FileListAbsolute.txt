@@ -1,0 +1,5 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\04.Morder\bin\Debug\04.Morder.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\04.Morder\bin\Debug\04.Morder.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\04.Morder\bin\Debug\04.Morder.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\04.Morder\obj\Debug\04.Morder.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\04.Morder\obj\Debug\04.Morder.pdb

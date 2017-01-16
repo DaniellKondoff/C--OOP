@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\07.BasicMath\bin\Debug\07.BasicMath.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\07.BasicMath\bin\Debug\07.BasicMath.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\07.BasicMath\bin\Debug\07.BasicMath.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\07.BasicMath\obj\Debug\07.BasicMath.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\07.BasicMath\obj\Debug\07.BasicMath.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\07.BasicMath\obj\Debug\07.BasicMath.pdb

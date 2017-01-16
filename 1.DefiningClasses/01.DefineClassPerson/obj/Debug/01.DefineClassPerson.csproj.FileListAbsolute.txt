@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.pdb

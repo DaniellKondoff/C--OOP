@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\6.RawData\bin\Debug\6.RawData.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\6.RawData\bin\Debug\6.RawData.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\6.RawData\bin\Debug\6.RawData.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\6.RawData\obj\Debug\6.RawData.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\6.RawData\obj\Debug\6.RawData.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\1.DefiningClasses\6.RawData\obj\Debug\6.RawData.pdb

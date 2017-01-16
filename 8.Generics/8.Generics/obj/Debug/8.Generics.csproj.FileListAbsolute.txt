@@ -1,0 +1,6 @@
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\8.Generics\8.Generics\bin\Debug\8.Generics.exe.config
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\8.Generics\8.Generics\bin\Debug\8.Generics.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\8.Generics\8.Generics\bin\Debug\8.Generics.pdb
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\8.Generics\8.Generics\obj\Debug\8.Generics.csprojResolveAssemblyReference.cache
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\8.Generics\8.Generics\obj\Debug\8.Generics.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\8.Generics\8.Generics\obj\Debug\8.Generics.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\04.NumnerInReversedOrder\bin\Debug\04.NumnerInReversedOrder.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\04.NumnerInReversedOrder\bin\Debug\04.NumnerInReversedOrder.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\04.NumnerInReversedOrder\bin\Debug\04.NumnerInReversedOrder.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\04.NumnerInReversedOrder\obj\Debug\04.NumnerInReversedOrder.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\04.NumnerInReversedOrder\obj\Debug\04.NumnerInReversedOrder.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\04.NumnerInReversedOrder\obj\Debug\04.NumnerInReversedOrder.pdb

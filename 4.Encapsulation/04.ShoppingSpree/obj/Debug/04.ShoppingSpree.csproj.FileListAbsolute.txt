@@ -1,0 +1,1 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\4.Encapsulation\04.ShoppingSpree\bin\Debug\04.ShoppingSpree.exe.config

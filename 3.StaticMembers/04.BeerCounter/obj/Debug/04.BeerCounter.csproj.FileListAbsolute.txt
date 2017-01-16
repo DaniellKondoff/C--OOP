@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\04.BeerCounter\bin\Debug\04.BeerCounter.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\04.BeerCounter\bin\Debug\04.BeerCounter.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\04.BeerCounter\bin\Debug\04.BeerCounter.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\04.BeerCounter\obj\Debug\04.BeerCounter.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\04.BeerCounter\obj\Debug\04.BeerCounter.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\3.StaticMembers\04.BeerCounter\obj\Debug\04.BeerCounter.pdb

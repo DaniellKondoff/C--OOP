@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\10.DataModifier\bin\Debug\10.DataModifier.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\10.DataModifier\bin\Debug\10.DataModifier.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\10.DataModifier\bin\Debug\10.DataModifier.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\10.DataModifier\obj\Debug\10.DataModifier.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\10.DataModifier\obj\Debug\10.DataModifier.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\10.DataModifier\obj\Debug\10.DataModifier.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\13.Drawing tool\bin\Debug\13.Drawing tool.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\13.Drawing tool\bin\Debug\13.Drawing tool.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\13.Drawing tool\bin\Debug\13.Drawing tool.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\13.Drawing tool\obj\Debug\13.Drawing tool.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\13.Drawing tool\obj\Debug\13.Drawing tool.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\13.Drawing tool\obj\Debug\13.Drawing tool.pdb

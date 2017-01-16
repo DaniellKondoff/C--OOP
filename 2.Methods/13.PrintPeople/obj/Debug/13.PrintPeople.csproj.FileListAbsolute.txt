@@ -1,0 +1,5 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\13.PrintPeople\bin\Debug\13.PrintPeople.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\13.PrintPeople\bin\Debug\13.PrintPeople.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\13.PrintPeople\bin\Debug\13.PrintPeople.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\13.PrintPeople\obj\Debug\13.PrintPeople.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\13.PrintPeople\obj\Debug\13.PrintPeople.pdb

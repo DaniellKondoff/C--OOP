@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\03.Mankind\bin\Debug\03.Mankind.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\03.Mankind\bin\Debug\03.Mankind.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\03.Mankind\bin\Debug\03.Mankind.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\03.Mankind\obj\Debug\03.Mankind.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\03.Mankind\obj\Debug\03.Mankind.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\03.Mankind\obj\Debug\03.Mankind.pdb

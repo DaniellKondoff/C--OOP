@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\06.Animals\bin\Debug\06.Animals.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\06.Animals\bin\Debug\06.Animals.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\06.Animals\bin\Debug\06.Animals.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\06.Animals\obj\Debug\06.Animals.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\06.Animals\obj\Debug\06.Animals.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\5.Inheritance\06.Animals\obj\Debug\06.Animals.pdb

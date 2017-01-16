@@ -1,0 +1,6 @@
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\03.WildFarm\bin\Debug\03.WildFarm.exe.config
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\03.WildFarm\bin\Debug\03.WildFarm.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\03.WildFarm\bin\Debug\03.WildFarm.pdb
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\03.WildFarm\obj\Debug\03.WildFarm.csprojResolveAssemblyReference.cache
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\03.WildFarm\obj\Debug\03.WildFarm.exe
+c:\users\kondoff\documents\visual studio 2015\Projects\C#_OOP\6.Polymorphism\03.WildFarm\obj\Debug\03.WildFarm.pdb

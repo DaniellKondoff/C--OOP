@@ -1,0 +1,6 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\C#_OOP\1.DefiningClasses\03.OpinionPoll\bin\Debug\03.OpinionPoll.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\C#_OOP\1.DefiningClasses\03.OpinionPoll\bin\Debug\03.OpinionPoll.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\C#_OOP\1.DefiningClasses\03.OpinionPoll\bin\Debug\03.OpinionPoll.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\C#_OOP\1.DefiningClasses\03.OpinionPoll\obj\Debug\03.OpinionPoll.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\C#_OOP\1.DefiningClasses\03.OpinionPoll\obj\Debug\03.OpinionPoll.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\C#_OOP\1.DefiningClasses\03.OpinionPoll\obj\Debug\03.OpinionPoll.pdb

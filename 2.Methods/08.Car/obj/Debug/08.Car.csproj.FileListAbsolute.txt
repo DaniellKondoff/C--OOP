@@ -1,0 +1,6 @@
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\08.Car\bin\Debug\08.Car.exe.config
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\08.Car\bin\Debug\08.Car.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\08.Car\bin\Debug\08.Car.pdb
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\08.Car\obj\Debug\08.Car.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\08.Car\obj\Debug\08.Car.exe
+C:\Users\Kondoff\documents\visual studio 2015\Projects\C#_OOP\2.Methods\08.Car\obj\Debug\08.Car.pdb
