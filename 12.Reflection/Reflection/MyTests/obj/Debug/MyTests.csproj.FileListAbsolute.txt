@@ -1,0 +1,1 @@
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTests\bin\Debug\MyTests.exe.config

@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTestAttr\bin\Release\MyTestAttr.dll
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTestAttr\bin\Release\MyTestAttr.pdb
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTestAttr\obj\Release\MyTestAttr.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTestAttr\obj\Release\MyTestAttr.dll
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTestAttr\obj\Release\MyTestAttr.pdb

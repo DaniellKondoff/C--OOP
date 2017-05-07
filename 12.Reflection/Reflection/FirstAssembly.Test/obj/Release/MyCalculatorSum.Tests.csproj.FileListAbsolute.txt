@@ -1,0 +1,9 @@
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\FirstAssembly.Test\bin\Release\MyCalculatorSum.Tests.dll
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\FirstAssembly.Test\bin\Release\MyCalculatorSum.Tests.pdb
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\FirstAssembly.Test\bin\Release\MyCalculator.dll
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\FirstAssembly.Test\bin\Release\MyTestAttr.dll
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\FirstAssembly.Test\bin\Release\MyCalculator.pdb
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\FirstAssembly.Test\bin\Release\MyTestAttr.pdb
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\FirstAssembly.Test\obj\Release\MyCalculatorSum.Tests.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\FirstAssembly.Test\obj\Release\MyCalculatorSum.Tests.dll
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\FirstAssembly.Test\obj\Release\MyCalculatorSum.Tests.pdb

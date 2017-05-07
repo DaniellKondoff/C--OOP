@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\03.Ferrari\bin\Debug\03.Ferrari.exe.config
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\03.Ferrari\bin\Debug\03.Ferrari.exe
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\03.Ferrari\bin\Debug\03.Ferrari.pdb
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\03.Ferrari\obj\Debug\03.Ferrari.exe
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\03.Ferrari\obj\Debug\03.Ferrari.pdb

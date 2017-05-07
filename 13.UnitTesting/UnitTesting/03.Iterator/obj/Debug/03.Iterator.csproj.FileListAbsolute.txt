@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\03.Iterator\bin\Debug\03.Iterator.exe.config
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\03.Iterator\bin\Debug\03.Iterator.exe
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\03.Iterator\bin\Debug\03.Iterator.pdb
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\03.Iterator\obj\Debug\03.Iterator.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\03.Iterator\obj\Debug\03.Iterator.exe
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\03.Iterator\obj\Debug\03.Iterator.pdb

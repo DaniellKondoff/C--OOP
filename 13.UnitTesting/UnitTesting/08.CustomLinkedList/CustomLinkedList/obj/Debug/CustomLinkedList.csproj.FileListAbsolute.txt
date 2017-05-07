@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\08.CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.dll.config
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\08.CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.dll
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\08.CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.pdb
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\08.CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\08.CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.dll
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\08.CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.pdb

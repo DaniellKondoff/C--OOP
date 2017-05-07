@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\09.CollectionHierhy\bin\Debug\09.CollectionHierhy.exe.config
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\09.CollectionHierhy\bin\Debug\09.CollectionHierhy.exe
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\09.CollectionHierhy\bin\Debug\09.CollectionHierhy.pdb
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\09.CollectionHierhy\obj\Debug\09.CollectionHierhy.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\09.CollectionHierhy\obj\Debug\09.CollectionHierhy.exe
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\09.CollectionHierhy\obj\Debug\09.CollectionHierhy.pdb

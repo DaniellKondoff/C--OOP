@@ -1,0 +1,12 @@
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\bin\Debug\Demo.Tests.dll
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\bin\Debug\Demo.Tests.pdb
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\bin\Debug\Demo.exe
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\bin\Debug\Demo.pdb
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\obj\Debug\Demo.Tests.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\obj\Debug\Demo.Tests.dll
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\obj\Debug\Demo.Tests.pdb
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\bin\Debug\Castle.Core.dll
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\bin\Debug\Moq.dll
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\bin\Debug\Castle.Core.xml
+D:\VisualStudio2015\Projects\C#_OOP\13.UnitTesting\UnitTesting\Demo.Tests\bin\Debug\Moq.xml

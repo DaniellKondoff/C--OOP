@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP\8.Generics\07.CountMethodDoubles\bin\Debug\07.CountMethodDoubles.exe.config
+D:\VisualStudio2015\Projects\C#_OOP\8.Generics\07.CountMethodDoubles\bin\Debug\07.CountMethodDoubles.exe
+D:\VisualStudio2015\Projects\C#_OOP\8.Generics\07.CountMethodDoubles\bin\Debug\07.CountMethodDoubles.pdb
+D:\VisualStudio2015\Projects\C#_OOP\8.Generics\07.CountMethodDoubles\obj\Debug\07.CountMethodDoubles.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP\8.Generics\07.CountMethodDoubles\obj\Debug\07.CountMethodDoubles.exe
+D:\VisualStudio2015\Projects\C#_OOP\8.Generics\07.CountMethodDoubles\obj\Debug\07.CountMethodDoubles.pdb

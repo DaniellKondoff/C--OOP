@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\05.BorderControl\bin\Debug\05.BorderControl.exe.config
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\05.BorderControl\bin\Debug\05.BorderControl.exe
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\05.BorderControl\bin\Debug\05.BorderControl.pdb
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\05.BorderControl\obj\Debug\05.BorderControl.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\05.BorderControl\obj\Debug\05.BorderControl.exe
+D:\VisualStudio2015\Projects\C#_OOP\7.Interfaces and Abstraction\05.BorderControl\obj\Debug\05.BorderControl.pdb

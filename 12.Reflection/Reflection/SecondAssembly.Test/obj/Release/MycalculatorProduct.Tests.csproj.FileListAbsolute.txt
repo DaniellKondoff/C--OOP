@@ -1,0 +1,9 @@
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\SecondAssembly.Test\bin\Release\MycalculatorProduct.Tests.dll
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\SecondAssembly.Test\bin\Release\MycalculatorProduct.Tests.pdb
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\SecondAssembly.Test\bin\Release\MyCalculator.dll
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\SecondAssembly.Test\bin\Release\MyTestAttr.dll
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\SecondAssembly.Test\bin\Release\MyCalculator.pdb
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\SecondAssembly.Test\bin\Release\MyTestAttr.pdb
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\SecondAssembly.Test\obj\Release\MycalculatorProduct.Tests.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\SecondAssembly.Test\obj\Release\MycalculatorProduct.Tests.dll
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\SecondAssembly.Test\obj\Release\MycalculatorProduct.Tests.pdb

@@ -1,0 +1,8 @@
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTests\bin\Release\MyTests.Run.exe.config
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTests\bin\Release\MyTests.Run.exe
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTests\bin\Release\MyTests.Run.pdb
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTests\bin\Release\MyTestAttr.dll
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTests\bin\Release\MyTestAttr.pdb
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTests\obj\Release\MyTests.Run.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTests\obj\Release\MyTests.Run.exe
+D:\VisualStudio2015\Projects\C#_OOP\12.Reflection\Reflection\MyTests\obj\Release\MyTests.Run.pdb

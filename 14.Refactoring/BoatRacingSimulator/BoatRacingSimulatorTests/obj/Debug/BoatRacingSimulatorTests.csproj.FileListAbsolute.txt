@@ -1,0 +1,11 @@
+D:\VisualStudio2015\Projects\C#_OOP\14.Refactoring\BoatRacingSimulator\BoatRacingSimulatorTests\obj\Debug\BoatRacingSimulatorTests.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP\14.Refactoring\BoatRacingSimulator\BoatRacingSimulatorTests\bin\Debug\BoatRacingSimulatorTests.dll
+D:\VisualStudio2015\Projects\C#_OOP\14.Refactoring\BoatRacingSimulator\BoatRacingSimulatorTests\bin\Debug\BoatRacingSimulatorTests.pdb
+D:\VisualStudio2015\Projects\C#_OOP\14.Refactoring\BoatRacingSimulator\BoatRacingSimulatorTests\bin\Debug\BoatRacingSimulator.exe
+D:\VisualStudio2015\Projects\C#_OOP\14.Refactoring\BoatRacingSimulator\BoatRacingSimulatorTests\bin\Debug\BoatRacingSimulator.pdb
+D:\VisualStudio2015\Projects\C#_OOP\14.Refactoring\BoatRacingSimulator\BoatRacingSimulatorTests\obj\Debug\BoatRacingSimulatorTests.dll
+D:\VisualStudio2015\Projects\C#_OOP\14.Refactoring\BoatRacingSimulator\BoatRacingSimulatorTests\obj\Debug\BoatRacingSimulatorTests.pdb
+D:\VisualStudio2015\Projects\C#_OOP\14.Refactoring\BoatRacingSimulator\BoatRacingSimulatorTests\bin\Debug\Castle.Core.dll
+D:\VisualStudio2015\Projects\C#_OOP\14.Refactoring\BoatRacingSimulator\BoatRacingSimulatorTests\bin\Debug\Moq.dll
+D:\VisualStudio2015\Projects\C#_OOP\14.Refactoring\BoatRacingSimulator\BoatRacingSimulatorTests\bin\Debug\Castle.Core.xml
+D:\VisualStudio2015\Projects\C#_OOP\14.Refactoring\BoatRacingSimulator\BoatRacingSimulatorTests\bin\Debug\Moq.xml
